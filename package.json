@@ -1,0 +1,19 @@
+{
+  "name": "demo4play",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "main": "demo4play เว็บตรงสล็อต มาแรง เล่นง่าย สมัครรับโบนัสฟรี100%",
+  "description": "demo4play เว็บตรงสล็อต มาแรง เล่นง่าย สมัครรับโบนัสฟรี100%",
+  "keywords": [
+    "slotxo",
+    "ทางเข้าslotxo joker",
+    "slotxo auto",
+    "ทางเข้าslotxo joker123",
+    "slotxo สล็อต ฝาก10รับ100"
+  ],
+  "repository": "https://github.com/mataba99/dm4p-1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
